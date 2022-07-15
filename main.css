@@ -1,0 +1,23 @@
+body {
+    background-image: url(./assets/rain_forest.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+header {
+    background-color: darkslategray;
+}
+
+.container {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: 100px;
+}
+
+.links {
+    list-style: none;
+}
